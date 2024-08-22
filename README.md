@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 [이름]입니다!
+# 안녕하세요, 저는 [김지연]입니다!
 
 ## 👨‍💻 프론트엔드 개발자
 
@@ -7,7 +7,7 @@
 - 👯 다른 개발자들과 협력하여 오픈 소스 프로젝트에 기여하고 싶습니다.
 - 🤔 사용자 경험을 개선하기 위한 아이디어를 찾고 있습니다.
 - 💬 `JavaScript`, `React`, `CSS` 등에 관해 이야기하는 것을 좋아합니다.
-- 📫 연락 방법: [이메일 주소]
+- 📫 연락 방법: [tcb03130@naver.com]
 - 😄 대명사: He/Him
 - ⚡ 재미있는 사실: 커피 없이는 코드를 작성할 수 없습니다!
 
@@ -20,14 +20,14 @@
 
 ## 💻 언어 사용량 통계
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joona0306&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tcb03130&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 GitHub 통계
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=joona0306&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tcb03130&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
-- **이메일**: your.email@example.com
+- **이메일**: tcb03130@naver.com
 - **LinkedIn**: [LinkedIn 프로필 링크]
 - **Twitter**: [@yourTwitter](https://twitter.com/yourTwitter)
 - **블로그**: [블로그 주소]
